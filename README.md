@@ -1,10 +1,14 @@
 # Computer Graphics I (Spring 2021)
-
-
+## Link
+ - https://stevenmach123.github.io/Ray_tracing-BlinnPhong-reflect-WebGL-/
 
 ## Assignment 3: Ray tracing
 The goal of this assignment is to implement a simple ray tracer using JavaScript. You will develop an application to ray trace a scene described in an external JSON (uploaded by the user through a configuration panel). The JSON file contains camera attributes (position, fov, direction), objects in the scene (spheres or planes), as well as the position of light sources.
 
+
+### Instruction to see image  
+  1. Download or clone repository
+  2. Choose File: **scene2.json** .  **scence1.json** is for test purpose if ambient is gonna to work 
 #### I have symbol eg. R1, R2,.. to indicate on code, so you can find on code where the symbol to see technical code. 
 
 ### Trace  + intersectObject
