@@ -1,4 +1,6 @@
-# CS425 - Computer Graphics I (Spring 2021)
+# Computer Graphics I (Spring 2021)
+
+
 
 ## Assignment 3: Ray tracing
 The goal of this assignment is to implement a simple ray tracer using JavaScript. You will develop an application to ray trace a scene described in an external JSON (uploaded by the user through a configuration panel). The JSON file contains camera attributes (position, fov, direction), objects in the scene (spheres or planes), as well as the position of light sources.
